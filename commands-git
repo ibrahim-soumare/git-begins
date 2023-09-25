@@ -3,3 +3,4 @@ git clone "fichier"
 git add
 git commit
 git push
+git pull origin "main/master"
